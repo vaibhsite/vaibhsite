@@ -1,4 +1,4 @@
-<h2 align="left">Hello earthlings Vaibhavi this side; a fellow habitant of Milkyway galaxy, having completed eighteen revolutions around the sun. </h2>
+<h2 align="left">Hello earthlings Vaibhavi this side; a fellow habitant of Milkyway galaxy. </h2>
 
 ###
 
